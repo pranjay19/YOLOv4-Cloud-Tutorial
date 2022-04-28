@@ -26,3 +26,4 @@ Follow this notebook to run YOLOv4 on webcam within Colab: https://colab.researc
 <p align="center"><img src="videos/yolov4-webcam-demo.gif"\></p>
 
 Cheers!
+Thank you
